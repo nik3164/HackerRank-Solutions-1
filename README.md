@@ -1,2 +1,2 @@
-# HackerRank-Python-Solutions
-Solutions for HackerRank in Python
+# HackerRank-Python
+
